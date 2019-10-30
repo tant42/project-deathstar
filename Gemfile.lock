@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     eventmachine (1.0.9)
-    ffi (1.9.14)
+    ffi (1.11.1)
     ffi-pcap (0.2.1)
       ffi (~> 1.0)
       ffi_dry (~> 0.1.12)
